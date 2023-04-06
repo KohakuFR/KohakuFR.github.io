@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">  
+  <head>
+    <link rel="stylesheet" href="corée du nord.css">
+    <meta charset="utf-7">
+    
+  </head>
+      
+  <body>
+      <style>
+    body {
+      background-image: url("https://ssl.sitew.org/images/blog/articles/fonds/e11.jpg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      text-align: center;
+      padding: 525px;
+      color: black;
+
+
+    }
+  </style>
+    <header>
+      <div class="container">
+  <img src="file:///home/kohaku/Images/images%20utiles/MT_FB.png.png" 
+</div>
+      <h1><center>Un étudiant Américain condamné à perpétuité pour avoir mangé un Oréo</center></h1>
+    </header>
+
+    <nav>
+      <!-- A Search form is another common non-linear way to navigate through a website. -->
+      <form>
+        <input type="search" name="q" placeholder="Vive le communisme">
+        <input type="submit" value="Go!">
+      </form> 
+    </nav>
+
+    <main>
+      <!-- Le contenu de la page -->
+    </main>
+
+      <article>
+        <h2>Le president Biden demande son rappatriment au chef du regime Coreen</h2>
+
+        <h3>Dans une affaire qui a choqué le monde entier, un étudiant américain nommé John Smith a été condamné à 15 ans de travaux forcés pour avoir mangé un simple biscuit Oréo en pleine place publique. Selon les autorités locales, M. Smith aurait violé une loi interdisant l'importation de produits américains, car les Oreo sont considérés comme un symbole de l’impérialisme américain. 
+        Cependant, cette décision a été largement critiquée par des personnes du monde entier, y compris le président américain de l'époque, Donald Trump.  </h3>
+
+        <h3>Le président une fois mis au courant il réagit en tweetant :   </h3>
+
+        <img src="file:///home/kohaku/Images/Capture%20d%E2%80%99%C3%A9cran%20de%202023-04-02%2018-49-43.png" style="">
+
+        <h3>Dans un second tweet, le président Trump a déclaré  que 15 ans de travaux forcés pour avoir mangé un Oréo était scandaleux et injuste. Il dit aussi qu’il doit faire tout ce qui est en son pouvoir pour que John Smith soit libéré et renvoyé chez lui.  </h3>
+
+        <h3>Le porte-parole de la Maison Blanche de l'époque, Josh Earnest, a également commenté l'affaire lors d'une conférence de presse, qualifiant la peine de "cruelle et inhabituelle". Il a déclaré que les États-Unis étaient "un pays de liberté et de justice", et que la condamnation de M. Smith était une violation de ces valeurs fondamentales. </h3>
+
+        <h3>L'affaire de John Smith a suscité un débat sur la justice et les droits de l'homme dans le monde entier. De nombreux défenseurs des droits de l'homme ont appelé à la libération immédiate de M. Smith, soulignant que sa peine était disproportionnée par rapport au crime présumé. </h3>
+
+        <h3>Malheureusement, John Smith est décédé peu de temps après son retour aux États-Unis. Sa mort est un rappel de l'importance de la lutte pour les droits de l'homme. Son histoire a inspiré des appels à une plus grande sensibilisation et action pour les droits de l'homme dans le monde entier. comme en témoigne cette vidéo publiée par france 24: </h3>
+        <video src="file:///home/kohaku/T%C3%A9l%C3%A9chargements/La%20triste%20histoire%20de%20John%20Smith.mp4" controls></video>
+        <h3> - </h3>
+
+        <a href="https://www.youtube.com/watch?v=Kn68msGAG0A"> https://www.youtube.com/watch?v=Kn68msGAG0A </a>
+        <h3> Voici d’autre article relatant sur l’arrestation plus que douteuse d’Américains sur le territoire Nord Coréen</h3>
+        <a href="https://www.lemonde.fr/asie-pacifique/article/2017/04/24/un-americain-arrete-en-coree-du-nord_5116331_3216.html"> Un Américain arrêté en Corée du Nord (lemonde.fr)  </a>
+<h3> - </h3>
+        <a href="https://www.lemonde.fr/asie-pacifique/article/2013/11/30/la-coree-du-nord-a-arrete-un-americain-pour-actes-hostiles-contre-l-etat_3523127_3216.html"> La Corée du Nord a arrêté un Américain pour « actes hostiles » contre l'Etat (lemonde.fr)  </a>
+<h3> - </h3>
+        <a href="https://www.capital.fr/economie-politique/un-americain-arrete-en-coree-du-nord-1225827"> Un Américain arrêté en Corée du Nord - Capital.fr  </a>
+<h3> - </h3>
+        <a href="Dans un contexte de vives tensions, un Américain arrêté en Corée du Nord | TF1 INFO "> Dans un contexte de vives tensions, un Américain arrêté en Corée du Nord | TF1 INFO  </a>
+
+      </article>
+    </main> 
+		</font>
+  </body>
+</html>
